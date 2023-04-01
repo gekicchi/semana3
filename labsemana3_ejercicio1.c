@@ -14,10 +14,10 @@ typedef struct
 
 int main()
 {
-	Jugador jugador1={"",0,0,0}, jugador2={"",0,0,0}, jugador3={"",0,0,0};
-	Jugador *jugadores[3] = {malloc(sizeof(jugador1)), malloc(sizeof(jugador2)), malloc(sizeof(jugador3))};
+	Jugador jugador1={"",0,0,0}, jugador2={"",0,0,0}, jugador3={"",0,0,0}; // jugadores de ejemplo
+	Jugador *jugadores[3] = {malloc(sizeof(jugador1)), malloc(sizeof(jugador2)), malloc(sizeof(jugador3))}; // arreglo de punteros
 
-	for (i=0; i<3; i++)
+	for (i=0; i<3; i++) // recibe las stats de cada jugador
 	{
 		printf("Nombre: ");
 		scanf("%s",&jugadores[i]->Nombre);
@@ -29,7 +29,7 @@ int main()
 		scanf("%d",&jugadores[i]->Puntaje);
 	}
 	
-	for(i=0; i<3; i++)
+	for(i=0; i<3; i++) // imprime a cada jugador
 	{
 		printf("---JUGADOR %d---\n",i+1);
 		printf("Nombre: %s\n",jugadores[i]->Nombre);

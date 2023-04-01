@@ -1,0 +1,15 @@
+D:\u\cursosProgra\codigosAlgoritmos\semana3\labsemana3_ejercicio4\obj\Debug\net6.0\labsemana3_ejercicio4.csproj.AssemblyReference.cache
+D:\u\cursosProgra\codigosAlgoritmos\semana3\labsemana3_ejercicio4\obj\Debug\net6.0\labsemana3_ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\u\cursosProgra\codigosAlgoritmos\semana3\labsemana3_ejercicio4\obj\Debug\net6.0\labsemana3_ejercicio4.AssemblyInfoInputs.cache
+D:\u\cursosProgra\codigosAlgoritmos\semana3\labsemana3_ejercicio4\obj\Debug\net6.0\labsemana3_ejercicio4.AssemblyInfo.cs
+D:\u\cursosProgra\codigosAlgoritmos\semana3\labsemana3_ejercicio4\obj\Debug\net6.0\labsemana3_ejercicio4.csproj.CoreCompileInputs.cache
+D:\u\cursosProgra\codigosAlgoritmos\semana3\labsemana3_ejercicio4\bin\Debug\net6.0\labsemana3_ejercicio4.exe
+D:\u\cursosProgra\codigosAlgoritmos\semana3\labsemana3_ejercicio4\bin\Debug\net6.0\labsemana3_ejercicio4.deps.json
+D:\u\cursosProgra\codigosAlgoritmos\semana3\labsemana3_ejercicio4\bin\Debug\net6.0\labsemana3_ejercicio4.runtimeconfig.json
+D:\u\cursosProgra\codigosAlgoritmos\semana3\labsemana3_ejercicio4\bin\Debug\net6.0\labsemana3_ejercicio4.dll
+D:\u\cursosProgra\codigosAlgoritmos\semana3\labsemana3_ejercicio4\bin\Debug\net6.0\labsemana3_ejercicio4.pdb
+D:\u\cursosProgra\codigosAlgoritmos\semana3\labsemana3_ejercicio4\obj\Debug\net6.0\labsemana3_ejercicio4.dll
+D:\u\cursosProgra\codigosAlgoritmos\semana3\labsemana3_ejercicio4\obj\Debug\net6.0\refint\labsemana3_ejercicio4.dll
+D:\u\cursosProgra\codigosAlgoritmos\semana3\labsemana3_ejercicio4\obj\Debug\net6.0\labsemana3_ejercicio4.pdb
+D:\u\cursosProgra\codigosAlgoritmos\semana3\labsemana3_ejercicio4\obj\Debug\net6.0\labsemana3_ejercicio4.genruntimeconfig.cache
+D:\u\cursosProgra\codigosAlgoritmos\semana3\labsemana3_ejercicio4\obj\Debug\net6.0\ref\labsemana3_ejercicio4.dll
